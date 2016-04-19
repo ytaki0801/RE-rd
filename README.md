@@ -1,1 +1,1 @@
-# RE-rd
+Codes and Documents for research of Requirement Descriptions on Requirements Engineering, just to be freely available
